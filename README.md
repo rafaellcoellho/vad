@@ -10,3 +10,7 @@ continously, and the interrupt of the timer control the pump's speed.
 User interface with LED and buttons are made with the keypad.h, using the facade pattern. 
 
 The control of brushless DC motors are made with the DEC_module.h, using the facade pattern also.
+
+![Alt text](https://imgur.com/LzKjYU5)
+Example of VAD (for ilustrative purposes only)
+
