@@ -1,5 +1,4 @@
-# vad
-VAD (Ventricular Assist Device) prototype for tests
+# Ventricular Assist Device prototype for tests
 
 This project was used in a VAD (Ventricular Assist Device) prototype implanted in a pig for a few hours to test the tecnology. His 
 main functionality is assisting cardiac circulation, which is used either to partially or to completely replace the function of a 
