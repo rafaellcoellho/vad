@@ -11,6 +11,9 @@ User interface with LED and buttons are made with the keypad.h, using the facade
 
 The control of brushless DC motors are made with the DEC_module.h, using the facade pattern also.
 
-![Alt text](https://imgur.com/LzKjYU5)
-Example of VAD (for ilustrative purposes only)
+<p align="center">
+  <img src="https://i.imgur.com/LzKjYU5.png" width="350"/>
+  <figcaption> Example (for ilustrative purposes only)</figcaption>
+</p>
+
 
